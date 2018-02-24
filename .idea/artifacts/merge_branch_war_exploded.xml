@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="merge_branch:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/merge_branch_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="merge_branch/web/Web" />
+    </root>
+  </artifact>
+</component>
